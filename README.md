@@ -1,1 +1,1 @@
-"# plugins" 
+1. Upload Images (Base 64) with input field.
